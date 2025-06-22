@@ -1,3 +1,6 @@
+# 🧐 | Detailed Overview of Edexcel Charts Production
+[![Website](https://img.shields.io/badge/Website-Edexcel--Charts-c0fa00.svg)](https://edexcel-charts.vercel.app/)
+[![Main Repository](https://img.shields.io/badge/Main%20Repository-Github-cfcfcf.svg)](https://github.com/anonymouslyanonymous1/Edexcel-Charts)
 ## Page Analysis
 - This _Convert raw marks_ region is what I'll be referring to as "converter"
 ![image](converter.png)
