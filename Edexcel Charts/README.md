@@ -23,16 +23,16 @@
     ```
 ## Link Analysis
  - The Link to _converter_:
-    <p>https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html?QualFamily=International%20A%20Level&ExamSeries=<span style="color:#c0fa00;">Year</span>&Qualification=<span style="color:#c0fa00;">Subject Name</span>&Unit=<span style="color:#c0fa00;">Unit Name</span></p>
+    <p>https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html?QualFamily=International%20A%20Level&ExamSeries=<strong>Year</strong>&Qualification=<strong>Subject Name</strong>&Unit=<strong>Unit Name</strong></p>
 
 - From this we can see that to reach the converter we need to supply to 3 endpoints:
     - Year
     - Subject Name
     - Unit Name
 ## My Approach
-1. Made a `years.txt` file that contains all the latest (new specification) years for the <span style="color:#c0fa00;">Year</span>, _ExamSeries_ endpoint
-2. Made a `Subjects` directory which contains txt files with names corresponding to the <span style="color:#c0fa00;">Subject Name</span>, _Qualification_ endpoint
-3. Made each txt file have all the available units for the <span style="color:#c0fa00;">Unit Name</span>, _Unit_ endpoint
+1. Made a `years.txt` file that contains all the latest (new specification) years for the <strong>Year</strong>, _ExamSeries_ endpoint
+2. Made a `Subjects` directory which contains txt files with names corresponding to the <strong>Subject Name</strong>, _Qualification_ endpoint
+3. Made each txt file have all the available units for the <strong>Unit Name</strong>, _Unit_ endpoint
 4. Finally all I need to do is loop over 
     ```yaml
     → each Subject 
