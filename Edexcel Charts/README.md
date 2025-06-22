@@ -22,8 +22,7 @@
     </div>
     ```
 ## Link Analysis
- - The Link to _converter_:
-    <p>https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html?QualFamily=International%20A%20Level&ExamSeries=<strong>Year</strong>&Qualification=<strong>Subject Name</strong>&Unit=<strong>Unit Name</strong></p>
+ - The Link to _converter_: https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html?QualFamily=International%20A%20Level&ExamSeries=_**Year**_&Qualification=_**Subject Name**_&Unit=_**Unit Name**_
 
 - From this we can see that to reach the converter we need to supply to 3 endpoints:
     - Year
